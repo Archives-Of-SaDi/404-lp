@@ -1,2 +1,3 @@
-# 404-lp
-Landing Page For Practice
+# 404 Landing Page
+
+![Screenshot](./assets/screenshot.png)
